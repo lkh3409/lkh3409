@@ -7,7 +7,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>undergraduate student</b> majoring in <b>AI</b>.🚀<br/>
-  🧑‍💻&nbsp; I'm interested in computer-vision,.💡<br/>
+  🧑‍💻&nbsp; I'm interested in computer-vision, Data Analysis.💡<br/>
 <br/>
   I enjoy football, baseball, cooking . 🏟️ ⛹️‍♂️<br/>
 </p>
