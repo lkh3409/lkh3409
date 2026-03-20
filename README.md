@@ -17,7 +17,7 @@
 
 ### 💫 Activities
   `2026.03~2026.12` Director of Education in T.G.winG, Academic Club of the Department of CS, Kyung Hee Univ.<br>
-  `2026.03~2026.12` Active in KHUDA 9th(NLP Track), AI & Data Analysis Club, Kyung Hee Univ.<br>
+  `2026.03~2026.07` Active in KHUDA 9th(NLP Track), AI & Data Analysis Club, Kyung Hee Univ.<br>
   `2024.02~2024.06`  Public Relations Manager / Data Business Track Leader in KHUDA 5th, Member of DadingCoding, coding education Club. <br>
   `2023.06~2023.12` Active in KHUDA 4th(Computer Vision Track), AI & Data Analysis Club, Kyung Hee Univ.<br>
   `2023.03~20.2023.12` Meber of the Management Dept in student council, School of Computing, Kyung Hee Univ.<br>
