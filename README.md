@@ -22,8 +22,6 @@
 | [Data_Business_FOODLENDAR](https://github.com/lkh3409/Data_Business_FOODLENDAR) | 농식품의 가장 저렴한 달을 예측해 알려주는 캘린더 서비스 (KHUDA 5th) |
 | [Python-term-project](https://github.com/lkh3409/Python-term-project) | 경희대 인공지능학과 텀프로젝트 (Python) |
 | [Web-term-project](https://github.com/lkh3409/Web-term-project) | HTML/CSS 웹 텀프로젝트 |
-| [KHUDA_9th_NLP-Study](https://github.com/lkh3409/KHUDA_9th_NLP-Study) | KHUDA 9기 NLP 트랙 스터디 기록 |
-| [Reinforcement-Learning-Study](https://github.com/lkh3409/Reinforcement-Learning-Study) | 강화학습 스터디 기록 |
 
 ### 💫 Activities
   `2026.03~2026.12` Director of Education in T.G.winG, Academic Club of the Department of CS, Kyung Hee Univ.<br>
