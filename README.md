@@ -15,6 +15,10 @@
 ### 🛠️ Projects
 | Project | Description |
 |---|---|
+| [CodePulse](https://github.com/khuda-data/9th-NLP-team4) | 내 GitHub 코드에 최신 AI 트렌드가 미치는 영향을 짚어주는 서비스 (KHUDA 9th 정기학술제, [Demo](https://9th-nlp-team4-git-main-hoon5.vercel.app/)) |
+| [TGwinG_official_web](https://github.com/TG-WinG/TGwinG_official_web) | T.G.winG 동아리 공식 웹사이트 ([Site](https://tgwing.dpdns.org)) |
+| KDISS x SAS 데이터 분석 공모전 | 2026 KDISS x SAS Korea 데이터 분석 공모전 팀 프로젝트 (private) |
+| [Prediction_of_Location_based_RoadView](https://github.com/cho-jang-hyun/Prediction_of_Location_based_RoadView) | 로드뷰 이미지로 촬영 위치를 예측하는 프로젝트 (2024 팀 프로젝트) |
 | [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 |
 | [GAN-paper-implementation](https://github.com/lkh3409/GAN-paper-implementation) | GAN·DCGAN PyTorch 구현 (MNIST) |
 | [ml_toy_project_team1](https://github.com/lkh3409/ml_toy_project_team1) | 유튜브 댓글 감정 분석을 통한 영상 호감도 평가 (KHUDA 4th 팀 프로젝트) |
