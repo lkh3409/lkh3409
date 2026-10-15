@@ -19,7 +19,7 @@
 | [삼정코칭파트너스 홈페이지](https://sjcoachingpartners.com) | 비즈니스 코칭 회사 공식 홈페이지 외주 제작 (Astro + Tailwind, Cloudflare Workers) |
 | [우리들의 목장 일기](https://haneuldream.vercel.app) | 목장 모임을 지도와 앨범으로 남기는 웹앱 (Next.js + Supabase) |
 | [TGwinG_official_web](https://github.com/TG-WinG/TGwinG_official_web) | T.G.winG 동아리 공식 웹사이트 ([Site](https://tgwing.dpdns.org)) |
-| KDISS x SAS 데이터 분석 공모전 | 2026 KDISS x SAS Korea 데이터 분석 공모전 팀 프로젝트 (private) |
+| KDISS x SAS 데이터 분석 공모전 | RFM 분석 기반 고객 이탈(Churn) 및 LTV 예측 (2026 KDISS x SAS Korea 데이터 분석 공모전, private) |
 | [Prediction_of_Location_based_RoadView](https://github.com/cho-jang-hyun/Prediction_of_Location_based_RoadView) | 로드뷰 이미지로 촬영 위치를 예측하는 프로젝트 (2024 팀 프로젝트) |
 | [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 |
 | [GAN-paper-implementation](https://github.com/lkh3409/GAN-paper-implementation) | GAN·DCGAN PyTorch 구현 (MNIST) |
