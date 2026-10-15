@@ -53,10 +53,10 @@ GitHub 저장소를 입력하면 그 코드와 관련 있는 AI 트렌드만 골
 | 2023 | [Prediction_of_Location_based_RoadView](https://github.com/cho-jang-hyun/Prediction_of_Location_based_RoadView) | 교내 거리뷰 이미지 기반 위치 예측 프로그램 (KHUDA 4th CV) |
 | 2023 | [ml_toy_project_team1](https://github.com/lkh3409/ml_toy_project_team1) | 댓글 33,731개로 KoBERT 파인튜닝, 유튜브 영상 호감도 평가 (KHUDA 4th) |
 | 2023 | [Gram](https://github.com/lkh3409/Gram) | 인스타그램 피드 기반 궁합 분석, ViT 이미지 특징 추출·Flask 백엔드 담당 |
-| 2023 | [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 (경희대 인공지능프로그래밍) |
+| 2023 | [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 (경희대 인공지능프로그래밍 AI100200) |
 | 2023 | [23TGTHON](https://github.com/lkh3409/23TGTHON) | FaceNet 얼굴 인식 웹 프로젝트 (2023 티지톤) |
 | 2023 | [GAN-paper-implementation](https://github.com/lkh3409/GAN-paper-implementation) | GAN·DCGAN PyTorch 구현 (MNIST) |
-| 2023 | [Python-term-project](https://github.com/lkh3409/Python-term-project) | 해외축구 선수 몸값과 포지션·나이·골 수의 상관 분석 |
+| 2023 | [Python-term-project](https://github.com/lkh3409/Python-term-project) | 해외축구 선수 몸값과 포지션·나이·골 수의 상관 분석 (경희대 웹/파이썬프로그래밍 SWCON10401) |
 
 <br/>
 
