@@ -5,12 +5,12 @@
   <a href="https://www.instagram.com/7ro._hu22.__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
-## Hi, I'm Kanghoon Lee
-
-경희대학교 인공지능학과 학생입니다.<br/>
-데이터 분석과 머신러닝으로 시작해, 요즘은 LLM을 활용한 서비스를 만들고 있습니다.
-
-**Interests** · LLM Application · Data Analysis · AI Education
+<p>
+  👋&nbsp; Hi there! I'm <b>undergraduate student</b> majoring in <b>AI</b>.🚀<br/>
+  🧑‍💻&nbsp; I'm interested in <b>AI Native</b>, <b>Computer Vision</b>.💡<br/>
+<br/>
+  I enjoy football, baseball, cooking. 🏟️ ⛹️‍♂️<br/>
+</p>
 
 <br/>
 
