@@ -50,7 +50,7 @@ GitHub 저장소를 입력하면 그 코드와 관련 있는 AI 트렌드만 골
 | 2026 | [TGwinG_official_web](https://github.com/TG-WinG/TGwinG_official_web) | T.G.winG 동아리 공식 웹사이트 ([Site](https://tgwing.dpdns.org)) |
 | 2024 | [Data_Business_FOODLENDAR](https://github.com/lkh3409/Data_Business_FOODLENDAR) | Prophet으로 농산물 70종의 월별 최저가 시기를 예측한 캘린더 (KHUDA 5th) |
 | 2024 | [5th-ML-team3](https://github.com/khuda-data/5th-ML-team3) | XGBoost 기반 개인 맞춤 기대수명 예측 (KHUDA 5th) |
-| 2023 | [Prediction_of_Location_based_RoadView](https://github.com/cho-jang-hyun/Prediction_of_Location_based_RoadView) | 직접 수집한 이미지 16,254장과 ResNet50 임베딩으로 교내 촬영 위치 예측 (KHUDA 4th CV) |
+| 2023 | [Prediction_of_Location_based_RoadView](https://github.com/cho-jang-hyun/Prediction_of_Location_based_RoadView) | 교내 거리뷰 이미지 기반 위치 예측 프로그램 (KHUDA 4th CV) |
 | 2023 | [ml_toy_project_team1](https://github.com/lkh3409/ml_toy_project_team1) | 댓글 33,731개로 KoBERT 파인튜닝, 유튜브 영상 호감도 평가 (KHUDA 4th) |
 | 2023 | [Gram](https://github.com/lkh3409/Gram) | 인스타그램 피드 기반 궁합 분석, ViT 이미지 특징 추출·Flask 백엔드 담당 |
 | 2023 | [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 (경희대 인공지능프로그래밍) |
