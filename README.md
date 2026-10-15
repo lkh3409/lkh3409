@@ -13,22 +13,22 @@
 </p>
 
 ### 🛠️ Projects
-| Project | Description |
-|---|---|
-| [CodePulse](https://github.com/khuda-data/9th-NLP-team4) | 내 GitHub 코드에 최신 AI 트렌드가 미치는 영향을 짚어주는 서비스 (KHUDA 9th 정기학술제, [Demo](https://9th-nlp-team4-git-main-hoon5.vercel.app/), [시연 영상](https://www.youtube.com/watch?v=1qKTwCagfvQ)) |
-| [삼정코칭파트너스 홈페이지](https://sjcoachingpartners.com) | 비즈니스 코칭 회사 공식 홈페이지 외주 제작 (Astro + Tailwind, Cloudflare Workers) |
-| [우리들의 목장 일기](https://haneuldream.vercel.app) | 목장 모임을 지도와 앨범으로 남기는 웹앱 (Next.js + Supabase) |
-| 중앙예닮학교 면접 시간 예약 시스템 | 학교 입학 면접 시간을 온라인으로 신청·관리하는 웹 서비스 (TypeScript, private) |
-| [TGwinG_official_web](https://github.com/TG-WinG/TGwinG_official_web) | T.G.winG 동아리 공식 웹사이트 ([Site](https://tgwing.dpdns.org)) |
-| KDISS x SAS 데이터 분석 공모전 | RFM 분석 기반 고객 이탈(Churn) 및 LTV 예측 (2026 KDISS x SAS Korea 데이터 분석 공모전, private) |
-| [Prediction_of_Location_based_RoadView](https://github.com/cho-jang-hyun/Prediction_of_Location_based_RoadView) | 로드뷰 이미지로 촬영 위치를 예측하는 프로젝트 (2024 팀 프로젝트) |
-| [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 |
-| [GAN-paper-implementation](https://github.com/lkh3409/GAN-paper-implementation) | GAN·DCGAN PyTorch 구현 (MNIST) |
-| [ml_toy_project_team1](https://github.com/lkh3409/ml_toy_project_team1) | 유튜브 댓글 감정 분석을 통한 영상 호감도 평가 (KHUDA 4th 팀 프로젝트) |
-| [Gram](https://github.com/lkh3409/Gram) | 인스타그램 피드 기반 궁합 분석 프로그램 (Python) |
-| [Data_Business_FOODLENDAR](https://github.com/lkh3409/Data_Business_FOODLENDAR) | 농식품의 가장 저렴한 달을 예측해 알려주는 캘린더 서비스 (KHUDA 5th) |
-| [Python-term-project](https://github.com/lkh3409/Python-term-project) | Transfermarkt 크롤링으로 해외축구 선수 몸값 분석 (파이썬 텀프로젝트) |
-| [Web-term-project](https://github.com/lkh3409/Web-term-project) | HTML/CSS 웹 텀프로젝트 |
+| Year | Project | Description |
+|---|---|---|
+| 2026 | [CodePulse](https://github.com/khuda-data/9th-NLP-team4) | 내 GitHub 코드에 최신 AI 트렌드가 미치는 영향을 짚어주는 서비스 (KHUDA 9th 정기학술제, [Demo](https://9th-nlp-team4-git-main-hoon5.vercel.app/), [시연 영상](https://www.youtube.com/watch?v=1qKTwCagfvQ)) |
+| 2026 | KDISS x SAS 데이터 분석 공모전 | RFM 분석 기반 고객 이탈(Churn) 및 LTV 예측 (2026 KDISS x SAS Korea 데이터 분석 공모전, private) |
+| 2026 | [삼정코칭파트너스 홈페이지](https://sjcoachingpartners.com) | 비즈니스 코칭 회사 공식 홈페이지 외주 제작 (Astro + Tailwind, Cloudflare Workers) |
+| 2026 | [우리들의 목장 일기](https://haneuldream.vercel.app) | 목장 모임을 지도와 앨범으로 남기는 웹앱 (Next.js + Supabase) |
+| 2026 | 중앙예닮학교 면접 시간 예약 시스템 | 학교 입학 면접 시간을 온라인으로 신청·관리하는 웹 서비스 (TypeScript, private) |
+| 2026 | [TGwinG_official_web](https://github.com/TG-WinG/TGwinG_official_web) | T.G.winG 동아리 공식 웹사이트 ([Site](https://tgwing.dpdns.org)) |
+| 2024 | [Data_Business_FOODLENDAR](https://github.com/lkh3409/Data_Business_FOODLENDAR) | 농식품의 가장 저렴한 달을 예측해 알려주는 캘린더 서비스 (KHUDA 5th) |
+| 2024 | [Prediction_of_Location_based_RoadView](https://github.com/cho-jang-hyun/Prediction_of_Location_based_RoadView) | 로드뷰 이미지로 촬영 위치를 예측하는 프로젝트 (2024 팀 프로젝트) |
+| 2023 | [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 |
+| 2023 | [Gram](https://github.com/lkh3409/Gram) | 인스타그램 피드 기반 궁합 분석 프로그램 (Python) |
+| 2023 | [ml_toy_project_team1](https://github.com/lkh3409/ml_toy_project_team1) | 유튜브 댓글 감정 분석을 통한 영상 호감도 평가 (KHUDA 4th 팀 프로젝트) |
+| 2023 | [GAN-paper-implementation](https://github.com/lkh3409/GAN-paper-implementation) | GAN·DCGAN PyTorch 구현 (MNIST) |
+| 2023 | [Python-term-project](https://github.com/lkh3409/Python-term-project) | Transfermarkt 크롤링으로 해외축구 선수 몸값 분석 (파이썬 텀프로젝트) |
+| 2023 | [Web-term-project](https://github.com/lkh3409/Web-term-project) | HTML/CSS 웹 텀프로젝트 |
 
 ### 💫 Activities
   `2026.03~2026.12` Director of Education in T.G.winG, Academic Club of the Department of CS, Kyung Hee Univ.<br>
