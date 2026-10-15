@@ -27,7 +27,7 @@
 | 2023 | [Gram](https://github.com/lkh3409/Gram) | 인스타그램 피드 기반 궁합 분석 프로그램 (Python) |
 | 2023 | [ml_toy_project_team1](https://github.com/lkh3409/ml_toy_project_team1) | 유튜브 댓글 감정 분석을 통한 영상 호감도 평가 (KHUDA 4th 팀 프로젝트) |
 | 2023 | [GAN-paper-implementation](https://github.com/lkh3409/GAN-paper-implementation) | GAN·DCGAN PyTorch 구현 (MNIST) |
-| 2023 | [Python-term-project](https://github.com/lkh3409/Python-term-project) | Transfermarkt 크롤링으로 해외축구 선수 몸값 분석 (파이썬 텀프로젝트) |
+| 2023 | [Python-term-project](https://github.com/lkh3409/Python-term-project) | 해외축구 선수 몸값과 포지션·나이·골 수의 상관 분석 (경희대 웹/파이썬프로그래밍 SWCON10401 텀프로젝트) |
 | 2023 | [Web-term-project](https://github.com/lkh3409/Web-term-project) | HTML/CSS 웹 텀프로젝트 |
 
 ### 💫 Activities
