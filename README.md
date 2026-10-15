@@ -23,7 +23,7 @@
 | 2026 | [TGwinG_official_web](https://github.com/TG-WinG/TGwinG_official_web) | T.G.winG 동아리 공식 웹사이트 ([Site](https://tgwing.dpdns.org)) |
 | 2024 | [Data_Business_FOODLENDAR](https://github.com/lkh3409/Data_Business_FOODLENDAR) | 농식품의 가장 저렴한 달을 예측해 알려주는 캘린더 서비스 (KHUDA 5th) |
 | 2024 | [Prediction_of_Location_based_RoadView](https://github.com/cho-jang-hyun/Prediction_of_Location_based_RoadView) | 로드뷰 이미지로 촬영 위치를 예측하는 팀 프로젝트 |
-| 2023 | [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 |
+| 2023 | [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 (경희대 인공지능프로그래밍 AI100200 프로젝트) |
 | 2023 | [Gram](https://github.com/lkh3409/Gram) | 인스타그램 피드 기반 궁합 분석 프로그램 (Python) |
 | 2023 | [ml_toy_project_team1](https://github.com/lkh3409/ml_toy_project_team1) | 유튜브 댓글 감정 분석을 통한 영상 호감도 평가 (KHUDA 4th 팀 프로젝트) |
 | 2023 | [GAN-paper-implementation](https://github.com/lkh3409/GAN-paper-implementation) | GAN·DCGAN PyTorch 구현 (MNIST) |
