@@ -15,7 +15,7 @@
 ### 🛠️ Projects
 | Project | Description |
 |---|---|
-| [CodePulse](https://github.com/khuda-data/9th-NLP-team4) | 내 GitHub 코드에 최신 AI 트렌드가 미치는 영향을 짚어주는 서비스 (KHUDA 9th 정기학술제, [Demo](https://9th-nlp-team4-git-main-hoon5.vercel.app/)) |
+| [CodePulse](https://github.com/khuda-data/9th-NLP-team4) | 내 GitHub 코드에 최신 AI 트렌드가 미치는 영향을 짚어주는 서비스 (KHUDA 9th 정기학술제, [Demo](https://9th-nlp-team4-git-main-hoon5.vercel.app/), [시연 영상](https://www.youtube.com/watch?v=1qKTwCagfvQ)) |
 | [삼정코칭파트너스 홈페이지](https://sjcoachingpartners.com) | 비즈니스 코칭 회사 공식 홈페이지 외주 제작 (Astro + Tailwind, Cloudflare Workers) |
 | [우리들의 목장 일기](https://haneuldream.vercel.app) | 목장 모임을 지도와 앨범으로 남기는 웹앱 (Next.js + Supabase) |
 | 중앙예닮학교 면접 시간 예약 시스템 | 학교 입학 면접 시간을 온라인으로 신청·관리하는 웹 서비스 (TypeScript, private) |
