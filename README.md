@@ -38,14 +38,10 @@ GitHub 저장소를 입력하면 그 코드와 관련 있는 AI 트렌드만 골
 
 <br/>
 
-## All Projects
+## Other Projects
 
 | Year | Project | Description |
 |---|---|---|
-| 2026 | [CodePulse](https://github.com/khuda-data/9th-NLP-team4) | 내 코드와 관련 있는 AI 트렌드만 골라 주는 LLM 서비스 (KHUDA 9th 정기학술제) |
-| 2026 | KDISS × SAS 데이터 분석 경진대회 | 고객 이탈·LTV 2단계 예측 (private) |
-| 2026 | 중앙예닮학교 면접 예약 시스템 | 선착순 입학 면접 예약 웹 서비스, 외주 납품 (private) |
-| 2026 | [삼정코칭파트너스 홈페이지](https://sjcoachingpartners.com) | B2B 컨설팅사 기업 홈페이지, 외주 납품 |
 | 2026 | [우리들의 목장 일기](https://haneuldream.vercel.app) | 목장 모임을 지도와 앨범으로 남기는 웹앱 (Next.js + Supabase) |
 | 2026 | [TGwinG_official_web](https://github.com/TG-WinG/TGwinG_official_web) | T.G.winG 동아리 공식 웹사이트 ([Site](https://tgwing.dpdns.org)) |
 | 2024 | [Data_Business_FOODLENDAR](https://github.com/lkh3409/Data_Business_FOODLENDAR) | Prophet으로 농산물 70종의 월별 최저가 시기를 예측한 캘린더 (KHUDA 5th) |
@@ -92,5 +88,3 @@ GitHub 저장소를 입력하면 그 코드와 관련 있는 AI 트렌드만 골
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-요구사항 정의, 설계 판단, 품질 검증은 직접 하고 구현은 Claude Code에 맡깁니다. 작업별 스킬과 검수 절차를 구성해 웹 서비스를 고객에게 납품하고 운영하고 있습니다.
