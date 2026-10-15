@@ -15,8 +15,13 @@
 ### 🛠️ Projects
 | Project | Description |
 |---|---|
+| [Market-YOLO-checkout](https://github.com/lkh3409/Market-YOLO-checkout) | YOLOv8 상품 인식 무인 계산 시스템 |
+| [GAN-paper-implementation](https://github.com/lkh3409/GAN-paper-implementation) | GAN·DCGAN PyTorch 구현 (MNIST) |
+| [ml_toy_project_team1](https://github.com/lkh3409/ml_toy_project_team1) | 유튜브 댓글 감정 분석을 통한 영상 호감도 평가 (KHUDA 4th 팀 프로젝트) |
 | [Gram](https://github.com/lkh3409/Gram) | 인스타그램 피드 기반 궁합 분석 프로그램 (Python) |
 | [Data_Business_FOODLENDAR](https://github.com/lkh3409/Data_Business_FOODLENDAR) | 농식품의 가장 저렴한 달을 예측해 알려주는 캘린더 서비스 (KHUDA 5th) |
+| [Python-term-project](https://github.com/lkh3409/Python-term-project) | 경희대 인공지능학과 텀프로젝트 (Python) |
+| [Web-term-project](https://github.com/lkh3409/Web-term-project) | HTML/CSS 웹 텀프로젝트 |
 | [KHUDA_9th_NLP-Study](https://github.com/lkh3409/KHUDA_9th_NLP-Study) | KHUDA 9기 NLP 트랙 스터디 기록 |
 | [Reinforcement-Learning-Study](https://github.com/lkh3409/Reinforcement-Learning-Study) | 강화학습 스터디 기록 |
 
