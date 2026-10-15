@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>undergraduate student</b> majoring in <b>AI</b>.🚀<br/>
+  👋&nbsp; Hi there! I'm an <b>undergraduate student</b> majoring in <b>AI</b> at <b>Kyung Hee University</b>.🚀<br/>
   🧑‍💻&nbsp; I'm interested in <b>AI Native</b>, <b>Computer Vision</b>.💡<br/>
 <br/>
   I enjoy football, baseball, cooking. 🏟️ ⛹️‍♂️<br/>
