@@ -24,7 +24,7 @@
 | [ml_toy_project_team1](https://github.com/lkh3409/ml_toy_project_team1) | 유튜브 댓글 감정 분석을 통한 영상 호감도 평가 (KHUDA 4th 팀 프로젝트) |
 | [Gram](https://github.com/lkh3409/Gram) | 인스타그램 피드 기반 궁합 분석 프로그램 (Python) |
 | [Data_Business_FOODLENDAR](https://github.com/lkh3409/Data_Business_FOODLENDAR) | 농식품의 가장 저렴한 달을 예측해 알려주는 캘린더 서비스 (KHUDA 5th) |
-| [Python-term-project](https://github.com/lkh3409/Python-term-project) | 경희대 인공지능학과 텀프로젝트 (Python) |
+| [Python-term-project](https://github.com/lkh3409/Python-term-project) | Transfermarkt 크롤링으로 해외축구 선수 몸값 분석 (파이썬 텀프로젝트) |
 | [Web-term-project](https://github.com/lkh3409/Web-term-project) | HTML/CSS 웹 텀프로젝트 |
 
 ### 💫 Activities
